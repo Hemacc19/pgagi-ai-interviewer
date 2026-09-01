@@ -28,10 +28,10 @@ Jinja2==3.1.6
 joblib==1.5.3
 jsonpatch==1.33
 jsonpointer==3.1.1
-langchain==0.3.34
+langchain==0.3.27
 langchain-groq==0.3.8
 langchain-core==0.3.75
-langgraph==1.2.11
+langgraph==0.3.34
 langgraph-checkpoint==4.2.0
 langgraph-prebuilt==1.1.0
 langgraph-sdk==0.4.4
